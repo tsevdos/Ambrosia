@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ambrosia\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-13 22:45+0200\n"
+"PO-Revision-Date: 2012-03-30 15:25+0200\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: Romania\n"
+"Language-Team: Web Geeks\n"
+"Last-Translator: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wp-H5C3\\wp-content\\themes\\ambrosia\n"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/404.php:10
+msgid "Error 404 - Not Found"
+msgstr "Eroarea 404 - nu a fost găsit"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/404.php:15
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/noresults.php:7
+msgid "Sorry, but the requested resource was not found on this site."
+msgstr "Ne pare rău, dar Resursa solicitată nu a fost găsit pe acest site."
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Acest post este protejată prin parolă. Introduceţi parola pentru vizualizarea comentariilor."
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/comments.php:15
+msgid "No comments yet"
+msgstr "Nu există comentarii încă"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/comments.php:15
+msgid "One comment"
+msgstr "Un comentariu"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/comments.php:15
+msgid "% Comments"
+msgstr "% Comentarii"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/comments.php:30
+msgid "Comments are Closed!"
+msgstr "Comentariile sunt închise!"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/comments.php:40
+msgid "You must be"
+msgstr "Trebuie să aveţi"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/comments.php:40
+msgid "logged in"
+msgstr "logat"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/comments.php:40
+msgid "to post a comment."
+msgstr "pentru a posta un comentariu."
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/footer.php:10
+msgid "Tag Cloud"
+msgstr "Tag Cloud"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/footer.php:25
+msgid "Archives"
+msgstr "Arhivele"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/footer.php:40
+msgid "Blogroll"
+msgstr "Blogroll"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:13
+msgid "Sidebar"
+msgstr "Bara laterală"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:21
+msgid "Footer first column"
+msgstr "Subsol prima coloană"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:29
+msgid "Footer second column"
+msgstr "Subsol a doua coloană"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:37
+msgid "Footer third column"
+msgstr "Subsol treia coloană"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:48
+msgid "Sidebar main menu"
+msgstr "Meniul principal bara laterală"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:49
+msgid "Sidebar secondary menu"
+msgstr "Meniu Perciuni secundare"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:67
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:91
+msgid "Permalink for this comment"
+msgstr "Permalink pentru acest comentariu"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:67
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:91
+msgid " at "
+msgstr " la "
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:68
+msgid "Edit"
+msgstr "Editare"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:73
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:97
+msgid "Your comment is awaiting moderation."
+msgstr "Comentariu este în aşteptarea moderaţie."
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/header.php:8
+msgid "Tag Archive for \""
+msgstr "Arhiva tag-ul pentru \""
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/header.php:10
+msgid " Archive - "
+msgstr " Arhiva- "
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/header.php:12
+msgid "Search for \""
+msgstr "De căutare pentru\""
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/header.php:17
+msgid "Not found - "
+msgstr "Nu a fost găsit- "
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/header.php:27
+msgid " - page "
+msgstr " -pagină "
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/header.php:63
+msgid "Home"
+msgstr "Home"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/index.php:18
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/search.php:18
+msgid "Permanent Link to"
+msgstr "Link permanent la"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/index.php:18
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/page.php:12
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:12
+msgid "Permalink"
+msgstr "Permalink"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/index.php:19
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/search.php:19
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:13
+msgid "Filed under"
+msgstr "Filed under"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/index.php:28
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/page.php:21
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/search.php:27
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:22
+msgid "by"
+msgstr "de"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/index.php:29
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/search.php:28
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:23
+msgid "tags"
+msgstr "Tag-uri"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/index.php:45
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/search.php:44
+msgid "« Newer Entries"
+msgstr "«Intrări mai noi"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/index.php:46
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/search.php:45
+msgid "Older Entries »"
+msgstr "Intrări mai vechi»"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/noresults.php:3
+msgid "Not Found"
+msgstr "Nu a fost găsit"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/page.php:27
+msgid "You can <a href=\"#respond\">leave a response</a>, or <a href=\""
+msgstr "Puteţi lăsa <a href=\"#respond\"> un răspuns </a>, sau <a href=\""
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/page.php:27
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/page.php:30
+msgid "\" rel=\"trackback\">trackback</a> from your own site."
+msgstr "\" rel=\"trackback\">trackback</a> la al tău own site."
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/page.php:30
+msgid "Responses are currently closed, but you can <a href=\""
+msgstr "Răspunsurile sunt în prezent închise, dar puteţi să <a href=\""
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/page.php:33
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:46
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr "Puteţi trece la sfârşitul şi a lăsa un răspuns. Pinging este în prezent nu sunt acceptate."
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/page.php:36
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:49
+msgid "Both comments and pings are currently closed."
+msgstr "Ambele comentarii şi de ping sunt în prezent închisă."
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/page.php:38
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:51
+msgid "Edit this entry"
+msgstr "Editaţi această intrare"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/search.php:10
+msgid "Search Results for"
+msgstr "Rezultatele cautarii pentru"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/searchform.php:2
+msgid "Search the site:"
+msgstr "Căutare site-ul:"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/searchform.php:3
+msgid "Search the site"
+msgstr "Site-ul de căutare"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:36
+msgid "You can "
+msgstr "poţi "
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:37
+msgid "leave a response"
+msgstr "lăsa un răspuns"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:38
+msgid ", or "
+msgstr ", sau "
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:39
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:43
+msgid "trackback"
+msgstr "Trackback"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:40
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:43
+msgid "from your own site."
+msgstr "de la al tău own site."
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:43
+msgid "Responses are currently closed, but you can"
+msgstr "Răspunsurile sunt în prezent închisă, dar puteţi"
+

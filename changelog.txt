@@ -1,0 +1,20 @@
+Ambrosia 1.0.4 2012-04-27
+-------------------------
+* minor CSS fix on trackbacks
+* French translation (credits to Nicolas Rouichi)
+* Romanian translation (credits to Alexander Ovsov - http://webhostinggeeks.com)
+
+
+
+Ambrosia 1.0.3 2011-05-25
+-------------------------
+* Make the UI images more generic
+* Display Categories and Pages menu if no there are no custom menus
+* Display Meta Login link at the sidebar if there is no widget at the area
+* CSS media queries fixes (specially on images)
+
+
+
+Ambrosia 1.0.2 2011-06-24
+-------------------------
+* Theme was axepted from Wordpress.org

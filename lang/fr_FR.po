@@ -1,0 +1,248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ambrosia\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-05-13 22:45+0200\n"
+"PO-Revision-Date: 2011-08-04 11:54+0100\n"
+"Last-Translator: Johnito\n"
+"Language-Team: Johnito\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wp-H5C3\\wp-content\\themes\\ambrosia\n"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/404.php:10
+msgid "Error 404 - Not Found"
+msgstr "Erreur 404 - Non trouvé"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/404.php:15
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/noresults.php:7
+msgid "Sorry, but the requested resource was not found on this site."
+msgstr "Desolé, mais la requête n'a donné aucune réponse"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ce post est protegé par mot de passe. Entrez le pour voir les commentaires."
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/comments.php:15
+msgid "No comments yet"
+msgstr "Pas encore de commentaires"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/comments.php:15
+msgid "One comment"
+msgstr "Un commentaire"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/comments.php:15
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/comments.php:30
+msgid "Comments are Closed!"
+msgstr "Commentaires fermés!"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/comments.php:40
+msgid "You must be"
+msgstr "Vous devez être"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/comments.php:40
+msgid "logged in"
+msgstr "enregistré"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/comments.php:40
+msgid "to post a comment."
+msgstr "pour poster un commentaire."
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/footer.php:10
+msgid "Tag Cloud"
+msgstr "Tag Cloud"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/footer.php:25
+msgid "Archives"
+msgstr "Archives"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/footer.php:40
+msgid "Blogroll"
+msgstr "Blogroll"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:13
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:21
+msgid "Footer first column"
+msgstr "Pied de page première columne"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:29
+msgid "Footer second column"
+msgstr "Pied de page deuxième columne"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:37
+msgid "Footer third column"
+msgstr "Pied de page troisième columne"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:48
+msgid "Sidebar main menu"
+msgstr "Barre latérale menu principal"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:49
+msgid "Sidebar secondary menu"
+msgstr "Barre latérale menu secondaire"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:67
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:91
+msgid "Permalink for this comment"
+msgstr "Permalien pour ce commentaire"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:67
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:91
+msgid " at "
+msgstr "à"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:68
+msgid "Edit"
+msgstr "Editer"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:73
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/functions.php:97
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire attends la modération."
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/header.php:8
+msgid "Tag Archive for &quot;"
+msgstr "Archive Tag pour &quot;"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/header.php:10
+msgid " Archive - "
+msgstr "Archive - "
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/header.php:12
+msgid "Search for &quot;"
+msgstr "Recherche pour &quot;"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/header.php:17
+msgid "Not found - "
+msgstr "Pas trouvé - "
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/header.php:27
+msgid " - page "
+msgstr " - page "
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/header.php:63
+msgid "Home"
+msgstr "Accueil"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/index.php:18
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/search.php:18
+msgid "Permanent Link to"
+msgstr "Lien permanent vers"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/index.php:18
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/page.php:12
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:12
+msgid "Permalink"
+msgstr "Permalien"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/index.php:19
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/search.php:19
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:13
+msgid "Filed under"
+msgstr "Rangé dans"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/index.php:28
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/page.php:21
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/search.php:27
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:22
+msgid "by"
+msgstr "par"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/index.php:29
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/search.php:28
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:23
+msgid "tags"
+msgstr "tags"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/index.php:45
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/search.php:44
+msgid "&laquo; Newer Entries"
+msgstr "&laquo; Nouvelles entrées"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/index.php:46
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/search.php:45
+msgid "Older Entries &raquo;"
+msgstr "Anciennes entrées &raquo;"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/noresults.php:3
+msgid "Not Found"
+msgstr "Pas trouvé"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/page.php:27
+msgid "You can <a href=\"#respond\">leave a response</a>, or <a href=\""
+msgstr "Vous pouvez <a href=\"#respond\">laisser une réponse</a>, ou <a href=\""
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/page.php:27
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/page.php:30
+msgid "\" rel=\"trackback\">trackback</a> from your own site."
+msgstr "\" rel=\"trackback\">trackback</a> à partir de votre site."
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/page.php:30
+msgid "Responses are currently closed, but you can <a href=\""
+msgstr "Réponses actuellement fermées, mais vous pouvez <a href=\""
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/page.php:33
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:46
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr "Vous pouvez aller à la fin et laisser une réponse. Pings actuellement fermés."
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/page.php:36
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:49
+msgid "Both comments and pings are currently closed."
+msgstr "Commentaires et pings actuellement fermés."
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/page.php:38
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:51
+msgid "Edit this entry"
+msgstr "Editer cette entrée"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/search.php:10
+msgid "Search Results for"
+msgstr "Résultats de recherche pour"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/searchform.php:2
+msgid "Search the site:"
+msgstr "Chercher dans le site:"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/searchform.php:3
+msgid "Search the site"
+msgstr "Chercher dans le site"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:36
+msgid "You can "
+msgstr "Vous pouvez"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:37
+msgid "leave a response"
+msgstr "laisser une réponse"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:38
+msgid ", or "
+msgstr ", ou "
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:39
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:43
+msgid "trackback"
+msgstr "trackback"
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:40
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:43
+msgid "from your own site."
+msgstr "votre propre site."
+
+#: C:\wamp\www\wp-H5C3\wp-content\themes\ambrosia/single.php:43
+msgid "Responses are currently closed, but you can"
+msgstr "Réponses actuellement fermées, mais vous pouvez"
+
