@@ -95,7 +95,7 @@ function ambrosia_comment($comment, $args, $depth) {
    $GLOBALS['comment'] = $comment;
 ?>
 <article id="comment-<?php comment_ID(); ?>" <?php comment_class('clearfix'); ?>>
-	<div class="avatar"><?php echo get_avatar( $comment, $size='48', $default='<path_to_url>' ); ?></div>
+	<div class="avatar"><?php echo get_avatar( $comment, $size='48', $default='http://www.gravatar.com/avatar/cd8108e509123ab284f382c35e81172c?s=100&d=mm&r=g' ); ?></div>
 	<div class="meta">
 		<p>
 			<?php if ($comment->comment_author_url != "") : ?>

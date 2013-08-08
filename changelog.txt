@@ -1,9 +1,14 @@
+Ambrosia 1.0.5 2013-08-08
+-------------------------
+* default avatar added on comments (minor  fix)
+* Serbian translation (credits to Andrijana Nikolic)
+
+
 Ambrosia 1.0.4 2012-04-27
 -------------------------
 * minor CSS fix on trackbacks
 * French translation (credits to Nicolas Rouichi)
 * Romanian translation (credits to Alexander Ovsov - http://webhostinggeeks.com)
-
 
 
 Ambrosia 1.0.3 2011-05-25
@@ -12,7 +17,6 @@ Ambrosia 1.0.3 2011-05-25
 * Display Categories and Pages menu if no there are no custom menus
 * Display Meta Login link at the sidebar if there is no widget at the area
 * CSS media queries fixes (specially on images)
-
 
 
 Ambrosia 1.0.2 2011-06-24
