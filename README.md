@@ -29,6 +29,11 @@ The theme works in **WordPress 2.7** and above (it was developed and tested in W
 
 Log in to your WordPress admin panel and navigate to **Appearance -> Themes**. Click the "Install Themes" tab and type **"Ambrosia"** at the search box. Finally press **"Install"**. That’s it! For the old-school bloggers, you can manually download it from the official [WordPress theme directory](http://wordpress.org/extend/themes/ambrosia "Ambrosia theme"), and then install it by uploading it into the **themes** directory (which is located into the **wp-content** directory).
 
+## Translations ##
+- Serbian translation (credits to Andrijana Nikolic)
+- French translation (credits to Nicolas Rouichi)
+- Romanian translation (credits to [Alexander Ovsov](http://webhostinggeeks.com "Alexander Ovsov") )
+
 ## Special thanks to : ##
 
 - [Kostis Vasiliadis](http://www.speak.gr/ "Speak.gr - Kostis Vasiliadis") for the amazing graphics and support
