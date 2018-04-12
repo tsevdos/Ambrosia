@@ -42,5 +42,6 @@ Log in to your WordPress admin panel and navigate to **Appearance -> Themes**. C
 - [Lea Verou](http://leaverou.me/ "Lea Verou's blog") for the cool article/tip [Stripes & other patterns with CSS3 – no images](http://leaverou.me/demos/css3-patterns.html "Stripes and other patterns with CSS3 - no images")
 - [Google Font API](http://code.google.com/apis/webfonts/ "Google Font API")
 
-## MIT License (MIT) ##
-Copyright (C) 2011 John Tsevdos
+## License ##
+
+MIT
